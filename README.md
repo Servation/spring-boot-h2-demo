@@ -2,7 +2,7 @@
 
 A modern full-stack web application designed to track 3D printer filament spools, manage printing jobs, and automatically calculate remaining material inventory weight with live progress gauges.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](dashboard_view.png)
 
 ## 🚀 Features
 
@@ -35,7 +35,7 @@ A modern full-stack web application designed to track 3D printer filament spools
 spring-boot-h2-demo/
 ├── pom.xml
 ├── README.md
-├── screenshot.png            # Dashboard preview screenshot
+├── dashboard_view.png        # Dashboard preview screenshot
 ├── src/                      # Backend Sources (Spring Boot)
 │   ├── main/
 │   │   ├── java/com/example/demo/
